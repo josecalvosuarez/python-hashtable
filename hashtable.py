@@ -124,7 +124,7 @@ class GuidHashtable(Hashtable):
 
 ######################################################
 # Image hash table
-NUM_CHUNKS = 8
+NUM_CHUNKS = 9
 
 
 class ImageHashtable(Hashtable):
